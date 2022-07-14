@@ -1,12 +1,10 @@
 # Dual Hand Gesture Control
  
-What is it?
 
-- This is a very modest personal project that allows gesture controls within windows, based on opencv.
-- Features will include several control options, like browser controls (forward and windows controls.
+What is it ?
 
-
-
+    A very modest personaly project that allows dual gesture control within windows, based on opencv.
+    Features will include several control templates, like browser controls and typycal windows controls.
 
 
 
