@@ -1,6 +1,9 @@
 # Dual Hand Gesture Control
  
-Simple background removal on webcam feed.
+What is it?
+
+- This is a very modest personal project that allows gesture controls within windows, based on opencv.
+- Features will include several control options, like browser controls (forward and windows controls.
 
 
 
