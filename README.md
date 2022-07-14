@@ -5,6 +5,12 @@ What is it ?
 
     A very modest personaly project that allows dual gesture control within windows, based on opencv.
     Features will include several control templates, like browser controls and typycal windows controls.
+    
+
+
+What is the status ?
+
+    Current status info will be included later
 
 
 
